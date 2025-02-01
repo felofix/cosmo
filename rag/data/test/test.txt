@@ -1,0 +1,1809 @@
+https://www.norden.org/en/info-norden/guide-moving-norway
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="This is an overview of what you should remember if you are planning to move to Norway from Denmark, Finland, the Faroe Islands, Greenland, Iceland, Sweden, or Åland. For example, you can read about customs duties, tax, registration, looking for work, social insurance rights, schools, and housing in Norway." />
+<meta name="abstract" content="This is an overview of what you should remember if you are planning to move to Norway from Denmark, Finland, the Faroe Islands, Greenland, Iceland, Sweden, or Åland. For example, you can read about customs duties, tax, registration, looking for work, social insurance rights, schools, and housing in Norway." />
+<link rel="canonical" href="https://www.norden.org/en/info-norden/guide-moving-norway" />
+<meta name="robots" content="index, follow" />
+<link rel="image_src" href="https://www.norden.org/sites/default/files/styles/content_size_800/public/2020-10/maend-flytter-skriveborde.jpg?itok=0ZkOTiD9" />
+<meta property="og:site_name" content="Nordic cooperation" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.norden.org/en/info-norden/guide-moving-norway" />
+<meta property="og:title" content="Guide: Moving to Norway" />
+<meta property="og:description" content="This is an overview of what you should remember if you are planning to move to Norway from Denmark, Finland, the Faroe Islands, Greenland, Iceland, Sweden, or Åland. For example, you can read about customs duties, tax, registration, looking for work, social insurance rights, schools, and housing in Norway." />
+<meta property="og:image" content="https://www.norden.org/sites/default/files/styles/content_size_800/public/2020-10/maend-flytter-skriveborde.jpg?itok=0ZkOTiD9" />
+<meta property="fb:app_id" content="263356437036537" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="This is an overview of what you should remember if you are planning to move to Norway from Denmark, Finland, the Faroe Islands, Greenland, Iceland, Sweden, or Åland. For example, you can read about customs duties, tax, registration, looking for work, social insurance rights, schools, and housing in Norway." />
+<meta name="twitter:site" content="@nordenen" />
+<meta name="twitter:title" content="Guide: Moving to Norway" />
+<meta name="twitter:image" content="https://www.norden.org/sites/default/files/styles/content_size_800/public/2020-10/maend-flytter-skriveborde.jpg?itok=0ZkOTiD9" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Corporation",
+            "@id": "https://www.norden.org/en",
+            "name": "Nordic cooperation",
+            "sameAs": [
+                "https://www.facebook.com/nordenen",
+                "https://twitter.com/nordenen",
+                "https://www.linkedin.com/company/the-nordic-council-of-ministers-and-the-nordic-council?trk=company_name"
+            ],
+            "url": "https://www.norden.org/en",
+            "telephone": "+45 21 71 71 35",
+            "logo": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.norden.org/en/sites/default/files/logos/Samarbejde%20Logotype%20RGB%20EN_0.svg"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "DK",
+                "addressCountry": "DK"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://www.norden.org/en",
+            "name": "Nordic cooperation",
+            "url": "https://www.norden.org/en"
+        }
+    ]
+}</script>
+<link rel="icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.norden.org/en/info-norden/guide-moving-norway" />
+<link rel="alternate" hreflang="da" href="https://www.norden.org/da/info-norden/guide-flytte-til-norge" />
+<link rel="alternate" hreflang="fi" href="https://www.norden.org/fi/info-norden/opas-muutto-norjaan" />
+<link rel="alternate" hreflang="is" href="https://www.norden.org/is/info-norden/leidbeiningar-flutt-til-noregs" />
+<link rel="alternate" hreflang="sv" href="https://www.norden.org/sv/info-norden/guide-flytta-till-norge" />
+<link rel="alternate" hreflang="nb" href="https://www.norden.org/no/info-norden/guide-flytte-til-norge" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.templates.twitter = "Reading: ${title} ${link} by @NordenEN"
+a2a_config.templates.email = {
+    subject: " ${title}",
+    body: "${link}"
+};</script>
+
+    <title>Guide: Moving to Norway | Nordic cooperation</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_lFM9Qa0D_f_mOul8gEIYRto9krJ_o0-umHJG8F9IzV0.css?delta=0&amp;language=en&amp;theme=norden_theme&amp;include=eJxVjlFuhDAMRC-UEKkXQg4ZIMKJIzuUsqcvi1at-LFnbD95KKUuVM9AHzHMKrU7O62jhEgGNzGZnQ9dYEYLzE2iCFW0EOcX3KUS6thXFISFJRL7C0C352qefSHd_IHom4qf3z8fF8Z52ry0nqXe_HfGYeGuQ5G0M1xkep2BhVKui7uJR8oqCa6R0qLUVgtJ90Y8_E-GvbY9crYVyRkYU_8Knz6UXF1E79ARP00MaZwzX9bCggol_kt8gDYLXYQj6S8v2IOT" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_th47l8LoLmUm2C3SS5mX0cU5vIN6rFRqVlqhePG6Qas.css?delta=1&amp;language=en&amp;theme=norden_theme&amp;include=eJxVjlFuhDAMRC-UEKkXQg4ZIMKJIzuUsqcvi1at-LFnbD95KKUuVM9AHzHMKrU7O62jhEgGNzGZnQ9dYEYLzE2iCFW0EOcX3KUS6thXFISFJRL7C0C352qefSHd_IHom4qf3z8fF8Z52ry0nqXe_HfGYeGuQ5G0M1xkep2BhVKui7uJR8oqCa6R0qLUVgtJ90Y8_E-GvbY9crYVyRkYU_8Knz6UXF1E79ARP00MaZwzX9bCggol_kt8gDYLXYQj6S8v2IOT" />
+<link rel="stylesheet" media="all" href="https://use.typekit.net/hol5yyq.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Pf_yj8xqvAXgJcOr8KB3Ns6wUlPHkts-EVML20d7H48.css?delta=3&amp;language=en&amp;theme=norden_theme&amp;include=eJxVjlFuhDAMRC-UEKkXQg4ZIMKJIzuUsqcvi1at-LFnbD95KKUuVM9AHzHMKrU7O62jhEgGNzGZnQ9dYEYLzE2iCFW0EOcX3KUS6thXFISFJRL7C0C352qefSHd_IHom4qf3z8fF8Z52ry0nqXe_HfGYeGuQ5G0M1xkep2BhVKui7uJR8oqCa6R0qLUVgtJ90Y8_E-GvbY9crYVyRkYU_8Knz6UXF1E79ARP00MaZwzX9bCggol_kt8gDYLXYQj6S8v2IOT" />
+
+    <script src="/sites/default/files/js/js_taHc_PiImT80eUnoFwpQUhm1bf85VWOPuFyPVPkj55k.js?scope=header&amp;delta=0&amp;language=en&amp;theme=norden_theme&amp;include=eJx1UEGOwyAM_BAJ2j3tb5AhDqU1NsJE3fT1i7K0h6i9mBmPjcYDy9IEeLcwwLxW4WZAFZtLfMXQpNqr2iByS-g8MGN9o0eRSOgaRJeBIb4dYrwrYWtYnabIW3EaairNsNQF2bULZrSRxANNx7oaT_DY7VEHJoFlwCK0r4lo0EB9iZK2p1wlJ8XBKqwD3dEX0wfDzR51Pr4cJi5sn3akpOC626wOQujNJGwUqR_0bcd75nP6-uEZ2fj_Q_G3iOLius1Oe1DYAwT6JMPWxOnmczqlkjHClJG3c5u36WXuDwuHtP0"></script>
+
+  </head>
+  <body class="path-node page-node-type-hn-article">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+<div class="layout-container">
+  <div id="search-overlay"></div>
+  <header role="banner" class="global-header">
+    <div class="global-header-inner">
+        <div id="block-norden-theme-sitebranding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/en" rel="home" class="site-logo">
+      <img src="/sites/default/files/logos/Samarbejde%20Logotype%20RGB%20EN_0.svg" alt="Home" />
+    </a>
+      </div>
+
+
+      <div class="global-sub-header">
+        <div class="global-sub-header-top">
+            <div class="region region-service-header">
+    <nav role="navigation" aria-labelledby="block-servicemenu-menu" id="block-servicemenu" class="block block-menu navigation menu--service-menu">
+            
+  <h2 class="visually-hidden" id="block-servicemenu-menu">Service menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/information/press-room" data-drupal-link-system-path="node/7931">Press</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/career" data-drupal-link-system-path="career">Career</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/information/contacts" data-drupal-link-system-path="node/8450">Contact</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-content" id="block-norden-theme-languageswitchercontent" role="navigation">
+  
+    
+      <div class="language-dropdown-block">
+  <button role="button" aria-label="Current language: EN" aria-expanded="false" aria-controls="language-dropdown" aria-haspopup="true" id="toggle-language-dropdown" class="language-dropdown-btn">
+        <span class="language-dropdown-lang"><span class="dropdown-language-flag flag-en"></span>EN</span>
+  </button>
+
+  <div class="language-dropdown-menu visually-hidden" aria-expanded="false" tabindex="-1">
+                      
+      <h2 class="visually-hidden">language dropdown</h2>
+    <div class="language-dropdown-item"  hreflang="da" data-drupal-link-system-path="node/47671" class="da"><a href="/da/info-norden/guide-flytte-til-norge" class="language-link" aria-label="Change language to DA" hreflang="da" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-da"></span>DA</a></div><div class="language-dropdown-item"  hreflang="fi" data-drupal-link-system-path="node/47671" class="fi"><a href="/fi/info-norden/opas-muutto-norjaan" class="language-link" aria-label="Change language to FI" hreflang="fi" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-fi"></span>FI</a></div><div class="language-dropdown-item"  hreflang="is" data-drupal-link-system-path="node/47671" class="is"><a href="/is/info-norden/leidbeiningar-flutt-til-noregs" class="language-link" aria-label="Change language to IS" hreflang="is" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-is"></span>IS</a></div><div class="language-dropdown-item"  hreflang="sv" data-drupal-link-system-path="node/47671" class="sv"><a href="/sv/info-norden/guide-flytta-till-norge" class="language-link" aria-label="Change language to SV" hreflang="sv" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-sv"></span>SV</a></div><div class="language-dropdown-item"  hreflang="nb" data-drupal-link-system-path="node/47671" class="nb"><a href="/no/info-norden/guide-flytte-til-norge" class="language-link" aria-label="Change language to NO" hreflang="nb" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-no"></span>NO</a></div></div>
+</div>
+  </div>
+
+  </div>
+
+        </div>
+        <div class="global-sub-header-middle">
+            <nav id="block-mainnavigation" class="block block-domain-menu-access block-domain-access-menu-blockmain" aria-labelledby="main-navigation-title">
+  
+      <h2 class="visually-hidden" id="main-navigation-title"">Main navigation</h2>
+    
+      
+              <ul class="menu menu-level-0">
+                    <li class="menu-item">
+                                            <a href="/en/nordic-council-ministers-0" data-drupal-link-system-path="node/87832">Nordic Council of Ministers</a>
+                      </li>
+                <li class="menu-item">
+                                            <a href="/en/nordic-council-0" data-drupal-link-system-path="node/87818">Nordic Council</a>
+                      </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-norden-theme-megamenu-menu" id="block-norden-theme-megamenu" class="block block-menu navigation menu--mega-menu">
+            
+  <h2 class="visually-hidden" id="block-norden-theme-megamenu-menu">Mega menu</h2>
+  
+
+    <div id="mega-menu" class="block block-menu navigation menu--mega-menu menu mega-menu visually-hidden" tabindex="-1">
+          <div class="language-menu-mobile">
+        <div class="language-switcher-language-url block block-language block-language-blocklanguage-content" id="block-norden-theme-languageswitchercontent" role="navigation">
+  
+    
+      <div class="language-dropdown-block">
+  <button role="button" aria-label="Current language: EN" aria-expanded="false" aria-controls="language-dropdown" aria-haspopup="true" id="toggle-language-dropdown" class="language-dropdown-btn">
+        <span class="language-dropdown-lang"><span class="dropdown-language-flag flag-en"></span>EN</span>
+  </button>
+
+  <div class="language-dropdown-menu visually-hidden" aria-expanded="false" tabindex="-1">
+                      
+      <h2 class="visually-hidden">language dropdown</h2>
+    <div class="language-dropdown-item"  hreflang="da" data-drupal-link-system-path="node/47671" class="da"><a href="/da/info-norden/guide-flytte-til-norge" class="language-link" aria-label="Change language to DA" hreflang="da" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-da"></span>DA</a></div><div class="language-dropdown-item"  hreflang="fi" data-drupal-link-system-path="node/47671" class="fi"><a href="/fi/info-norden/opas-muutto-norjaan" class="language-link" aria-label="Change language to FI" hreflang="fi" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-fi"></span>FI</a></div><div class="language-dropdown-item"  hreflang="is" data-drupal-link-system-path="node/47671" class="is"><a href="/is/info-norden/leidbeiningar-flutt-til-noregs" class="language-link" aria-label="Change language to IS" hreflang="is" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-is"></span>IS</a></div><div class="language-dropdown-item"  hreflang="sv" data-drupal-link-system-path="node/47671" class="sv"><a href="/sv/info-norden/guide-flytta-till-norge" class="language-link" aria-label="Change language to SV" hreflang="sv" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-sv"></span>SV</a></div><div class="language-dropdown-item"  hreflang="nb" data-drupal-link-system-path="node/47671" class="nb"><a href="/no/info-norden/guide-flytte-til-norge" class="language-link" aria-label="Change language to NO" hreflang="nb" data-drupal-link-system-path="node/47671"><span class="dropdown-language-flag flag-no"></span>NO</a></div></div>
+</div>
+  </div>
+
+      </div>
+
+      
+        <ul>
+              
+        <li class="menu-level__0">
+                                                                              
+                                                                                                                                            
+              <div class="menu__accordion">
+                <a href="/en/nordic-council-ministers-0" data-drupal-link-system-path="node/87832">Nordic Council of Ministers</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Nordic Council of Ministers">
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/nyheder?organisation=745" data-drupal-link-query="{&quot;organisation&quot;:&quot;745&quot;}" data-drupal-link-system-path="news">News from the Nordic Council of Ministers</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                        
+              <div class="menu__accordion">
+                <a href="/en/our-vision-2030" data-drupal-link-system-path="node/38616">Our Vision 2030</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Our Vision 2030">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/action-plan-vision-2030" data-drupal-link-system-path="node/47994">Action plan for Vision 2030</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                        
+              <div class="menu__accordion">
+                <a href="/en/information/about-presidency-nordic-council-ministers" data-drupal-link-system-path="node/3442">The Presidency of the Nordic Council of Ministers</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand The Presidency of the Nordic Council of Ministers">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/news/finnish-and-aland-co-presidency-nordic-council-ministers-2025-strong-and-united-nordic-region" data-drupal-link-system-path="node/90028">Presidency programme for the Nordic Council of Ministers 2025</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                                    
+              <div class="menu__accordion">
+                <a href="/en/organisation/nordic-council-ministers" data-drupal-link-system-path="taxonomy/term/745">Organisation</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Organisation">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/secretary-general" data-drupal-link-system-path="taxonomy/term/1269">The Secretary General</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/secretary-nordic-council-ministers" data-drupal-link-system-path="taxonomy/term/950">Secretariat</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/nordic-agreements-and-legislation" data-drupal-link-system-path="node/36932">Governing documents</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                                                                                                                                                                                
+              <div class="menu__accordion">
+                <a href="/en/information/nordic-council-ministers" data-drupal-link-system-path="node/24288">The Nordic Councils of Ministers</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand The Nordic Councils of Ministers">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/ministers-co-operation-mr-sam" data-drupal-link-system-path="taxonomy/term/746">Ministers for Co-operation</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-labour-mr" data-drupal-link-system-path="taxonomy/term/928">Nordic Council of Ministers for Labour</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-sustainable-growth-mr-vaekst" data-drupal-link-system-path="taxonomy/term/813">Nordic Council of Ministers for Sustainable Growth</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/mr-digital" data-drupal-link-system-path="taxonomy/term/925">Nordic Council of Ministers for Digitalisation</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-fisheries-aquaculture-agriculture-food-and-forestry-mr-fjls" data-drupal-link-system-path="taxonomy/term/882">Nordic Council of Ministers for Fisheries, Aquaculture, Agriculture, Food and Forestry</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-justice-affairs-mr-just" data-drupal-link-system-path="taxonomy/term/853">Nordic Council of Ministers for Justice Affairs</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-minsters-culture-mr-k" data-drupal-link-system-path="taxonomy/term/837">Nordic Council of Ministers for Culture</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-gender-equality-and-lgbti-mr-jam" data-drupal-link-system-path="taxonomy/term/903">Nordic Council of Ministers for Gender Equality and LGBTI</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-environment-and-climate-mr-mk" data-drupal-link-system-path="taxonomy/term/772">Nordic Council of Ministers for the Environment and Climate</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-health-and-social-affairs-mr-s" data-drupal-link-system-path="taxonomy/term/910">Nordic Council of Ministers for Health and Social Affairs</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-education-and-research-mr-u" data-drupal-link-system-path="taxonomy/term/860">Nordic Council of Ministers for Education and Research</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-ministers-finance-mr-finans" data-drupal-link-system-path="taxonomy/term/943">Nordic Council of Ministers for Finance</a>
+            </div>
+                  </li>
+              
+        <li class="external-link menu-level__2">
+                      <div class="menu__accordion">
+              <a href="https://opengov.360online.com/meetings/nmr">Meetings and protocols</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                                                                                                                                                                  
+              <div class="menu__accordion">
+                <a href="/en/information/institutions" data-drupal-link-system-path="node/87331">Institutions</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Institutions">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-culture-point-nkk" data-drupal-link-system-path="taxonomy/term/842">Nordic Culture Point</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-house-reykjavik-norey" data-drupal-link-system-path="taxonomy/term/843">Nordic House in Reykjavik</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-house-faroe-islands-fo" data-drupal-link-system-path="taxonomy/term/839">Nordic House in the Faroe Islands</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-institute-greenland-napa" data-drupal-link-system-path="taxonomy/term/841">The Nordic Institute in Greenland</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-institute-aland-nipa" data-drupal-link-system-path="taxonomy/term/840">Nordic Institute on Åland</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-welfare-centre" data-drupal-link-system-path="taxonomy/term/913">Nordic Welfare Centre</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordforsk" data-drupal-link-system-path="taxonomy/term/863">NordForsk</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-genetic-resource-centre-nordgen" data-drupal-link-system-path="taxonomy/term/892">NordGen</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-innovation" data-drupal-link-system-path="taxonomy/term/824">Nordic Innovation</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-energy-research" data-drupal-link-system-path="taxonomy/term/823">Nordic Energy Research</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordregio" data-drupal-link-system-path="taxonomy/term/822">Nordregio</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/niva-education-nordic-institute-advanced-training-occupational-health" data-drupal-link-system-path="taxonomy/term/930">NIVA Education</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                      
+              <div class="menu__accordion">
+                <a href="/en/information/about-nordic-council-ministers" data-drupal-link-system-path="node/1959">About the Nordic Council of Ministers</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand About the Nordic Council of Ministers">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/history-nordic-council-ministers" data-drupal-link-system-path="node/4744">History of the Nordic Council of Ministers</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/node/86101" data-drupal-link-system-path="node/86101">Budget</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__0">
+                                                                              
+                                                                                                                                            
+              <div class="menu__accordion">
+                <a href="/en/nordic-council-0" data-drupal-link-system-path="node/87818">Nordic Council</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Nordic Council">
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/nyheder?organisation=657" data-drupal-link-query="{&quot;organisation&quot;:&quot;657&quot;}" data-drupal-link-system-path="news">News from the Nordic Council</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                      
+              <div class="menu__accordion">
+                <a href="/en/information/about-nordic-council" data-drupal-link-system-path="node/2011">Parliamentary co-operation</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Parliamentary co-operation">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/cases" data-drupal-link-system-path="cases">Nordic Council cases</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/nordic-councils-international-co-operation" data-drupal-link-system-path="node/34871">Nordic Council’s international co-operation</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                        
+              <div class="menu__accordion">
+                <a href="/en/information/about-nordic-council-president" data-drupal-link-system-path="node/2055">The Presidency of the Nordic Council</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand The Presidency of the Nordic Council">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/programme-swedens-presidency-nordic-council-2025" data-drupal-link-system-path="node/90219">Presidency programme for the Nordic Council 2025</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                                    
+              <div class="menu__accordion">
+                <a href="/en/organisation/nordic-council" data-drupal-link-system-path="taxonomy/term/657">Organisation</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Organisation">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/secretary-general-0" data-drupal-link-system-path="taxonomy/term/1848">Secretary General</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/nordic-council-secretariat" data-drupal-link-system-path="taxonomy/term/734">Secretariat</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/nordic-agreements-and-legislation" data-drupal-link-system-path="node/36932">Governing documents</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                                                                                                          
+              <div class="menu__accordion">
+                <a href="/en/nordic-council-members" data-drupal-link-system-path="nordic-council-members">Nordic Council committees and members</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Nordic Council committees and members">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/nordic-council-members" data-drupal-link-system-path="nordic-council-members">All members</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/presidium" data-drupal-link-system-path="taxonomy/term/727">The Presidium</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/committee-knowledge-and-culture-nordic-region" data-drupal-link-system-path="taxonomy/term/730">Committee for Knowledge and Culture in the Nordic Region</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/committee-sustainable-nordic-region" data-drupal-link-system-path="taxonomy/term/731">Committee for a Sustainable Nordic Region</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/committee-growth-and-development-nordic-region" data-drupal-link-system-path="taxonomy/term/732">Committee for Growth and Development in the Nordic Region</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/committee-welfare-nordic-region" data-drupal-link-system-path="taxonomy/term/733">Committee for Welfare in the Nordic Region</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/control-committee" data-drupal-link-system-path="taxonomy/term/729">Control Committee</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/organisation/election-committee" data-drupal-link-system-path="taxonomy/term/728">Election Committee</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                                                  
+              <div class="menu__accordion">
+                <a href="/en/information/about-sessions-nordic-council" data-drupal-link-system-path="node/2061">Sessions and meetings</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Sessions and meetings">
+              
+        <li class="external-link menu-level__2">
+                      <div class="menu__accordion">
+              <a href="https://opengov.360online.com/meetings/nr">Protocols and upcoming meetings</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/session2024" data-drupal-link-system-path="node/89240">2024 Session</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/temasession2024" data-drupal-link-system-path="node/85676">2024 Theme Session</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/past-sessions" data-drupal-link-system-path="node/34973">Past sessions</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                      
+              <div class="menu__accordion">
+                <a href="/en/information/about-nordic-council" data-drupal-link-system-path="node/2011">About the Nordic Council</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand About the Nordic Council">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/history-nordic-council" data-drupal-link-system-path="node/2040">The history of the Nordic Council</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/node/86649" data-drupal-link-system-path="node/86649">Annual report</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__0">
+                                                                              
+                                                                                                                
+              <div class="menu__accordion">
+                <a href="/en/nyheder" data-drupal-link-system-path="news">News</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand News">
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/nyheder" data-drupal-link-system-path="news">All news</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/events" data-drupal-link-system-path="events">Events</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                        
+              <div class="menu__accordion">
+                <a href="/en/current_initiatives" data-drupal-link-system-path="current_initiatives">Current initiatives</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Current initiatives">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/join-us-arctic-frontiers-2025" data-drupal-link-system-path="node/91567">Arctic Frontiers 2025</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                        
+              <div class="menu__accordion">
+                <a href="/en/information/press-room" data-drupal-link-system-path="node/7931">Press</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Press">
+              
+        <li class="external-link menu-level__2">
+                      <div class="menu__accordion">
+              <a href="https://www.skyfish.com/p/nordisksamarbejde">Nordic image bank</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/career" data-drupal-link-system-path="career">Career</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__0">
+                                                                              
+                                                                                                                                            
+              <div class="menu__accordion">
+                <a href="/en/publications" data-drupal-link-system-path="publications">Knowledge and services</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Knowledge and services">
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/info-norden" data-drupal-link-system-path="info-norden">Living, working and studying in the Nordic Region</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                        
+              <div class="menu__accordion">
+                <a href="/en/publications" data-drupal-link-system-path="publications">Publications</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Publications">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/due-release-publication" data-drupal-link-system-path="node/2067">Release a publication</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                                      
+              <div class="menu__accordion">
+                <a href="/en/information/facts-about-nordic-countries" data-drupal-link-system-path="node/7937">Facts and statistics</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Facts and statistics">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/facts-about-nordic-countries" data-drupal-link-system-path="node/7937">Facts about the Nordic Region</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/nordicstatistics" data-drupal-link-system-path="node/75257">Nordic statistics</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                        
+              <div class="menu__accordion">
+                <a href="/en/funding-opportunities" data-drupal-link-system-path="funding-opportunities">Funding opportunities</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Funding opportunities">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/how-apply-funding-nordic-council-ministers" data-drupal-link-system-path="node/71072">About funding from the Nordic Council of Ministers</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/funding-opportunities?field_opportunity=1" data-drupal-link-query="{&quot;field_opportunity&quot;:&quot;1&quot;}" data-drupal-link-system-path="funding-opportunities">Public procurements</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/border-database" data-drupal-link-system-path="border-database">Border database</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                                                                              
+                                                        
+              <div class="menu__accordion">
+                <a href="/en/information/official-nordic-co-operation" data-drupal-link-system-path="node/2081">About the Nordic co-operation</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand About the Nordic co-operation">
+              
+        <li class="menu-level__2">
+                      <div class="menu__accordion">
+              <a href="/en/information/history-nordic-co-operation" data-drupal-link-system-path="node/2084">The history of Nordic co-operation</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__0">
+                                                                              
+                                                                                                                
+              <div class="menu__accordion">
+                <a href="/en/nordic-council-prizes" data-drupal-link-system-path="prizes">Nordic Council prizes</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Nordic Council prizes">
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/environmentprize" data-drupal-link-system-path="node/5013">Environment Prize</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/bulitpris" data-drupal-link-system-path="node/5012">Children and Young People&#039;s Literature Prize</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/literature-prize" data-drupal-link-system-path="node/5011">Literature Prize</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/nordic-council-film-prize" data-drupal-link-system-path="node/5009">Film Prize</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/musicprize" data-drupal-link-system-path="node/5004">Music Prize</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+              
+        <li class="menu-level__0">
+                                                                              
+                                                                                                                                            
+              <div class="menu__accordion">
+                <a href="/en/political_areas" data-drupal-link-system-path="political_areas">Policy areas</a>
+                                                  <button class="button button--accordion button__accordion " type="button"
+                          aria-label="Toggle submenu"></button>
+                              </div>
+                      <ul tabindex="-1" aria-expanded="false" aria-label="expand Policy areas">
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/environment-and-climate" data-drupal-link-system-path="node/7914">Environment and climate</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/culture" data-drupal-link-system-path="node/4745">Culture</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/legislation-and-justice" data-drupal-link-system-path="node/42365">Legislation and Justice</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/sustainable-development" data-drupal-link-system-path="node/4749">Sustainable development</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/digitalisation-and-innovation" data-drupal-link-system-path="node/4716">Digitalisation and innovation</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/children-and-young-people" data-drupal-link-system-path="node/4751">Children and young people</a>
+            </div>
+                  </li>
+              
+        <li class="menu-level__1">
+                      <div class="menu__accordion">
+              <a href="/en/political_areas" data-drupal-link-system-path="political_areas">See all policy areas</a>
+            </div>
+                  </li>
+          </ul>
+  
+                              </li>
+          </ul>
+  
+
+
+
+      <div class="language-menu-mobile secondary-menu-mobile">
+        <nav role="navigation" aria-labelledby="block-servicemenu-menu" id="block-servicemenu" class="block block-menu navigation menu--service-menu">
+            
+  <h2 class="visually-hidden" id="block-servicemenu-menu">Service menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/information/press-room" data-drupal-link-system-path="node/7931">Press</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/career" data-drupal-link-system-path="career">Career</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/information/contacts" data-drupal-link-system-path="node/8450">Contact</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+      </div>
+
+      </div>
+</nav>
+
+
+          
+        </div>
+        <div class="global-sub-header-right">
+          <div class="mega-menu-header">
+          
+
+<div class="global-header-search">
+  <div class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blocksolr-search-content-search" data-bef-auto-submit-full-form="" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-drupal-selector="views-exposed-form" id="block-exposedformsolr-search-contentsearch">
+    
+        
+          <form action="/en/search" method="get" id="views-exposed-form-solr-search-content-search" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-query form-item-query form-no-label">
+      <label for="edit-query" class="visually-hidden">Search</label>
+        <input data-bef-auto-submit-exclude="1" placeholder="Search" tabindex="-1" data-drupal-selector="edit-query" type="text" id="edit-query" name="query" value="" size="30" maxlength="128" class="form-text" />
+
+          </div>
+
+  <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-bef-auto-submit-click="" tabindex="-1" type="submit" id="edit-submit-solr-search-content" value="Apply" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+      </div>
+  <button role="button" aria-label="Open the search bar" aria-expanded="false" class="header-search-icon js-search-toggle">
+    Search
+  </button>
+</div>
+
+            <button role="button" aria-label="Mega menu" aria-expanded="false" aria-controls="mega-menu" aria-haspopup="true" class="toggle-mega-menu" id="toggle-mega-menu">
+              Menu
+            </button>
+
+            <button role="button" aria-label="Menu" aria-expanded="false" class="header-menu-icon">
+              <span class="icon icon_menu open-icon"></span>
+              <span class="icon icon_close close-icon"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+     </div>
+  </header>
+
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+                <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-norden-theme-mainpagecontent" class="block block-system block-system-main-block">
+  
+    
+      
+
+<div id="topics-cloud">
+  <form data-drupal-selector="hn-topics-form-article" action="/en/info-norden/guide-moving-norway" method="post" id="hn-topics-form-article" accept-charset="UTF-8">
+  <span class="hn-landing-page-link"><a href="/en/info-norden" data-drupal-selector="edit-landing" id="edit-landing">Info Norden</a></span><div class="js-form-item form-item js-form-type-select form-type-select js-form-item-country form-item-country form-no-label form-disabled">
+      <label for="edit-country" class="visually-hidden">Select a country</label>
+        <select disabled="disabled" data-drupal-selector="edit-country" id="edit-country" name="country" class="form-select select2-widget" data-select2-config="{&quot;multiple&quot;:false,&quot;placeholder&quot;:{&quot;id&quot;:&quot;&quot;,&quot;text&quot;:&quot;- None -&quot;},&quot;allowClear&quot;:true,&quot;dir&quot;:&quot;ltr&quot;,&quot;language&quot;:&quot;en&quot;,&quot;tags&quot;:false,&quot;theme&quot;:&quot;default&quot;,&quot;maximumSelectionLength&quot;:0,&quot;tokenSeparators&quot;:[],&quot;selectOnClose&quot;:false,&quot;width&quot;:&quot;100%&quot;}"><option value=""></option><option value="1370" selected="selected">Norway</option></select>
+          </div>
+
+<div class="topic-links-list-terms ui-accordion show-topics"><div class="topics-toggle ui-accordion-header-active" aria-expanded="true"><span class="topics-toggle--inner ui-accordion-header"><span class="topics-toggle--text">Hide topics</span><span class="icon icon_close" aria-hidden="true"></span></span></div><ul class="topic-links-items ui-accordion-content" data-drupal-selector="edit-links"><li><a href="/en/info-norden/business?country=1370" class="links__link" hreflang="en">Business</a></li><li><a href="/en/info-norden/children?country=1370" class="links__link" hreflang="en">Children</a></li><li><a href="/en/info-norden/death-and-bereavement?country=1370" class="links__link" hreflang="en">Death and bereavement</a></li><li><a href="/en/info-norden/education-and-training?country=1370" class="links__link" hreflang="en">Education and training</a></li><li><a href="/en/info-norden/health?country=1370" class="links__link" hreflang="en">Health</a></li><li><a href="/en/info-norden/higher-education?country=1370" class="links__link" hreflang="en">Higher education</a></li><li><a href="/en/info-norden/home-and-family?country=1370" class="links__link" hreflang="en">Home and family</a></li><li><a href="/en/info-norden/housing?country=1370" class="links__link" hreflang="en">Housing</a></li><li><a href="/en/info-norden/job-hunting?country=1370" class="links__link" hreflang="en">Job-hunting</a></li><li><a href="/en/info-norden/pensions?country=1370" class="links__link" hreflang="en">Pensions</a></li><li><a href="/en/info-norden/personal-finances?country=1370" class="links__link" hreflang="en">Personal finances</a></li><li><a href="/en/info-norden/pregnancy-and-birth?country=1370" class="links__link" hreflang="en">Pregnancy and birth</a></li><li><a href="/en/info-norden/relocation?country=1370" class="links__link" hreflang="en">Relocation</a></li><li><a href="/en/info-norden/secondary-education?country=1370" class="links__link" hreflang="en">Secondary education</a></li><li><a href="/en/info-norden/social-security?country=1370" class="links__link" hreflang="en">Social security</a></li><li><a href="/en/info-norden/society?country=1370" class="links__link" hreflang="en">Society</a></li><li><a href="/en/info-norden/tax-customs-and-excise?country=1370" class="links__link" hreflang="en">Tax, customs and excise</a></li><li><a href="/en/info-norden/temporary-residence?country=1370" class="links__link" hreflang="en">Temporary residence</a></li><li><a href="/en/info-norden/vehicle?country=1370" class="links__link" hreflang="en">Vehicle</a></li><li><a href="/en/info-norden/work?country=1370" class="links__link" hreflang="en">Work</a></li></ul></div><input type="hidden" name="form_build_id" value="form-ly4en4ZPIwZHTtOmDvOLkMgvGvZb0JPy7ainNXJIml4" />
+<input data-drupal-selector="edit-hn-topics-form-article" type="hidden" name="form_id" value="hn_topics_form_article" />
+
+</form>
+
+</div>
+<article class="node node--type-hn-article node--view-mode-full">
+  
+                <header class="node-header">
+        <h1 class="node-title">
+                      <span class="field field--name-title field--type-string field--label-hidden">Guide: Moving to Norway </span>
+
+                  </h1>
+              </header>
+        
+  <div class="node__content">
+      
+<div  class="node-top-region">
+      
+<div  class="node-left-column">
+      
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-default">
+      
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/content_size_800/public/2020-10/maend-flytter-skriveborde.jpg?itok=0ZkOTiD9" width="800" height="533" alt="Menn flytter " class="image-style-content-size-800" />
+
+
+</div>
+      
+  <div class="field field--name-field-photographer field--type-string field--label-inline clearfix">
+    <div class="field__label">Photographer</div>
+              <div class="field__item">Yadid Levy / Norden.org</div>
+          </div>
+
+  </article>
+</div>
+      
+
+      <div class="field field--name-field-hn-topics field--type-entity-reference field--label-hidden field--name-field-related-topics">
+      <div class="field__label">Related topics:</div>
+      <div class='field__items'>
+                  <div class='field__item'><a href="/en/info-norden/relocation?country=1370" hreflang="en">Relocation</a></div>
+                  <div class='field__item'><a href="/en/info-norden/home-and-family?country=1370" hreflang="en">Home and family</a></div>
+                  <div class='field__item'><a href="/en/info-norden/temporary-residence?country=1370" hreflang="en">Temporary residence</a></div>
+              </div>
+    </div>
+  <div class="addtoany-container">
+  <span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://www.norden.org/en/info-norden/guide-moving-norway"
+    data-a2a-title="Guide: Moving to Norway ">
+    <a class="a2a_button_email"><span class="icon icon_mail-solid"></span><span class="button-text">Mail</span></a><a class="a2a_button_facebook"><span class="icon icon_facebook"></span><span class="button-text">Facebook</span></a><a class="a2a_button_linkedin"><span class="icon icon_linkedin"></span><span class="button-text">Linkedin</span></a><a class="a2a_button_twitter"><span class="icon icon_twitter"></span><span class="button-text">Twitter</span></a></span><span class="addtoany_cta">
+  </span>
+</div>
+
+
+            <div class="field field--name-field-description field--type-string-long field--label-hidden field__item">This is an overview of what you should remember if you are planning to move to Norway from Denmark, Finland, the Faroe Islands, Greenland, Iceland, Sweden, or Åland. For example, you can read about customs duties, tax, registration, looking for work, social insurance rights, schools, and housing in Norway.</div>
+      
+      <div class="field field--name-field-bodyfield field--type-entity-reference-revisions field--label-hidden field__items">
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Work and residence permits</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>If you are a citizen in another Nordic country, you are entitled to move to Norway to live, work and study. You do not need to apply for a residence permit or similar.</p>
+
+<p>If you are a citizen of another EU/EEA country, you may freely enter Norway and stay in the country for up to three months. If you are staying in Norway for more than three months, you must register.</p>
+
+<p>If you come from a country outside the EU/EEA and want to move to Norway, you must apply for a residence permit. The main regulation is that you must apply for this, and the permit must be awarded, before you move to Norway.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/work-and-residence-permits-norway" class="icon icon_arrow">Work and residence permits in Norway </a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.udi.no/en/" class="icon icon_link-out">The Norwegian Directorate of Migration (Utlendingsdirektoratet, UDI) is respons…</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Customs and removal goods</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>If you have lived abroad continuously for at least one year, you may bring most of your removal goods free of customs duties and taxes when you move to Norway.&nbsp;For some items, you must complete a&nbsp;declaration form for the import of removal goods and submit the form to the Norwegian Customs (Tolletaten).</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/customs-regulations-norway" class="icon icon_arrow">Customs regulations in Norway </a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.toll.no/en/" class="icon icon_link-out">The Norwegian Customs is responsible for customs matters in Norway. </a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Cars and driving licences</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>You can&nbsp;apply for a temporary driving permit for a foreign-registered vehicle&nbsp;within 14 days when you move to Norway. You must present documentation to confirm your relocation, such as a change of residence certificate, employment contract, or some other relevant documentation.</p>
+
+<p>If you want to bring a foreign-registered vehicle when you move to Norway, you must&nbsp;import the vehicle and pay customs duties and taxes. This applies regardless of your citizenship and where you are moving from. In some countries, you may be reimbursed some of the registration fee when your car is registered in another country.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/cars-norway" class="icon icon_arrow">Cars in Norway </a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.skatteetaten.no/en/person/duties/cars-and-other-vehicles/" class="icon icon_link-out">The Norwegian Tax Administration (Skatteetaten) is responsible for the import o…</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.vegvesen.no/en/?lang=en" class="icon icon_link-out">The Norwegian Public Roads Administration (Statens Vegvesen) has information ab…</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Registration in the National Population Register, personal identity number, D-number</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>If you are planning to live in Norway for more than six months, you must notify that you have moved to Norway. You need to book an appointment for a personal meeting at a tax office and undergo an ID check. If you are moving to Norway together with your family, it is important that all family members attend the personal meeeting at the tax office. You need to take some documentation with you, such as an ID card, employment contract/student certificate, or similar. When you become registered as living in Norway, you will be given a Norwegian identity number. In some countries, you must also notify the population registry that you have moved to another Nordic country.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/registration-national-population-register-norway" class="icon icon_arrow">Registration in the National Population Register in Norway </a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/norwegian-identification-numbers" class="icon icon_arrow">Norwegian identification numbers</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.skatteetaten.no/en/person/national-registry/" class="icon icon_link-out">The Norwegian Tax Administration is responsible for registration in the Populat…</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">MinID and Bank-ID</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>MinID is a personal log-in to public services in Norway. With your personal MinID you can, for example, gain access to different services of the Norwegian Labour and Welfare Administration, NAV, apply for admission to higher education, apply for a loan and grant from the Norwegian State Educational Loan Fund (Lånekassen), and submit your tax return electronically. You need a Norwegian national identity number or a&nbsp;D number to set up MinID.</p>
+
+<p>BankID is a personal, electronic ID that gives you access to public services at the highest level of security. To get a BankID you must contact your bank.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/banks-norway" class="icon icon_arrow">MinID, Bank ID, and banks in Norway</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.digdir.no/om-oss/about-norwegian-digitalisation-agency/887" class="icon icon_link-out">The Norwegian Digitalisation Agency (Digitaliseringsdirektoratet) is responsibl…</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Change your postal address</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>You should contact the post office in the country you are moving from, to request redirection of mail to your new address when you move to Norway.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Housing</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>There are different types of housing in Norway. Foreign citizens and people living in other countries may freely buy or rent property in Norway. However, some properties have a residence obligation.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/housing-norway" class="icon icon_arrow">Housing in Norway</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Social insurance rights and pension</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>The country in which you have your social insurance rights is significant for pension, unemployment benefit, sickness benefit, family benefits, and parental benefit. The main regulation is that you are a member of the social insurance scheme (sosialforsikret) in the country in which you work. If you do not have a job, you are generally a member in the country in which you live. However, there are many special situations. If you are in any doubt, you should contact the agencies in the country in which you are living, working, or studying.</p>
+
+<p>If you receive a pension from another Nordic country, contact the pensions agency to find out whether you can still receive your pension paid if you move to Norway. You should also check the regulations for tax payable on the pension, both in the country you move from and in Norway.</p>
+
+<p>If you have pension savings in another country, you should contact the pension company for more information about how this will be affected if you move to Norway.</p>
+
+<p>In Norway, you earn rights to a pension while you are a member of the Norwegian social insurance scheme.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.nav.no/en/home" class="icon icon_link-out">The Norwegian Labour and Welfare Administration, NAV, is responsible for Norweg…</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Tax</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>If you work in Norway, you should generally pay tax on your salary in Norway. If you are registered as living in Norway, your employer can get your tax deduction card electronically from the Norwegian Tax Administration. If you are not registered in Norway, or do not have a Norwegian identification number, contact your nearest tax office to apply for a tax deduction card.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.skatteetaten.no/en/person/taxes/" class="icon icon_link-out">The Norwegian Tax Administration (Skatteetaten) is responsible for tax in Norwa…</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.nordisketax.net/" class="icon icon_link-out">Nordisk eTax has information about cross-border tax in the Nordic region.</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Doctors and healthcare services</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>When you move to Norway and register in the National Population Register, you are entitled to a regular general practitioner (RGP). Contact your GP if you become ill or need medical help. If you need emergency medical help outside the surgery’s opening hours, contact an out-of-hours medical service.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/right-healthcare-services-norway" class="icon icon_arrow">Right to healthcare services in Norway</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.helsenorge.no/en/information-in-english/" class="icon icon_link-out">HelseNorge is a website providing public information about the healthcare secto…</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Pets and other animals</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>If you are intending to bring a pet when you move to Norway, you must found out the regulations about importing animals.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/travelling-dogs-or-cats-norway" class="icon icon_arrow">Travelling with pets to Norway</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.mattilsynet.no/language/english/" class="icon icon_link-out">The Norwegian Food Safety Authority (Mattilsynet) is responsible for the regula…</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Schools and kindergartens</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>It is the municipalities in Norway that are responsible for primary and lower secondary school and for kindergartens. The counties are responsible for upper secondary education in Norway. Contact the municipality and county to which you are intending to move to find out more information.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/kindergartens-norway" class="icon icon_arrow">Kindergartens in Norway</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/primary-and-lower-secondary-school-norway" class="icon icon_arrow">Primary and lower secondary school in Norway</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/upper-secondary-education-norway" class="icon icon_arrow">Upper secondary education in Norway</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">The right to vote in elections</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>When you move to Norway, you have the right to vote in municipal and regional elections. Only Norwegian citizens have the right to vote in parliamentary elections. To vote in the Sami Parliament elections, you must be registered in the Sami Parliament electoral roll.</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/right-vote-norway" class="icon icon_arrow">The right to vote in Norway</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Moving to Svalbard </h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>If you are intending to move or travel to Svalbard, you should find out the relevant regulations.&nbsp;</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/moving-or-travelling-svalbard" class="icon icon_arrow">Moving or travelling to Svalbard</a>
+  </div>
+
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+  <h2 class="field field--name-title field--type-string field--label-hidden field__item">Moving to Norway from another Nordic country</h2>
+
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>Here you can find relevant information</p></div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--link paragraph--view-mode--default">
+          
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/guide-moving-denmark" class="icon icon_arrow">Moving from Denmark</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/guide-moving-away-finland" class="icon icon_arrow">Moving from Finland</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/guide-moving-faroe-islands" class="icon icon_arrow">Moving from the Faroe Islands</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/guide-moving-greenland" class="icon icon_arrow">Moving from Greenland </a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="/en/info-norden/guide-moving-sweden-0" class="icon icon_arrow">Moving from Sweden</a>
+  </div>
+
+      </div>
+
+          </div>
+  
+  </div>
+
+<div  class="node-right-column">
+      
+<div  class="authority-block">
+      
+            <div class="field field--name-field-authority-title field--type-string field--label-hidden field__item">Contact agency </div>
+      
+      <div class="field field--name-field-links field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+      <div class="paragraph paragraph--type--link-title paragraph--view-mode--default">
+              
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.nav.no/person/kontakt-oss/en/" class="icon icon_arrow">Norwegian Labour and Welfare Administration (NAV)</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.skatteetaten.no/en/contact/" class="icon icon_arrow">Norwegian Tax Administration</a>
+  </div>
+  <div class="field field--name-link field--type-link field--label-hidden field__item">
+    <a href="https://www.toll.no/en/about-norwegian-customs/contact-us/" class="icon icon_arrow">Norwegian Customs </a>
+  </div>
+
+          </div>
+  </div>
+          </div>
+  
+  </div>
+
+            <div class="field field--name-field-questions field--type-entity-reference field--label-hidden field__item">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Ask Info Norden</div>
+      
+            <div class="clearfix text-formatted field field--name-field-q-description field--type-text-long field--label-hidden field__item"><p>Please fill in our contact form if you have any questions or if you have encountered an obstacle in another Nordic country.</p></div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item"><a href="/en/ask">Contact Info Norden</a></div>
+      
+            <div class="clearfix text-formatted field field--name-field-disclaimer field--type-text-long field--label-hidden field__item"><p><strong>NB!</strong> If you have questions regarding the processing of a specific case or application, or other personal matters, please contact the relevant authority directly.</p></div>
+      </div>
+      
+  </div>
+
+  </div>
+
+<div  class="node-bottom-region">
+        
+
+  <div  class="related-content-section">
+          <h3>Related content</h3>
+          <div class="view view-eva view-related-content view-id-related_content view-display-id-eva_hn_article js-view-dom-id-41e0f90936523d294765ad3d9a40802d606e6d5451525c1829f8ef103798f86e">
+  
+  
+
+  <div class="slick blazy slick--view slick--view--related-content slick--view--related-content--eva-hn-article slick--view--related-content-entity-view-eva-hn-article slick--optionset--related-content-optionset slick--multiple-view" data-blazy=""><div id="slick-68ec736437d" data-slick="{&quot;count&quot;:5,&quot;total&quot;:5,&quot;mobileFirst&quot;:true,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;rows&quot;:0,&quot;slidesToShow&quot;:2,&quot;responsive&quot;:[{&quot;breakpoint&quot;:769,&quot;settings&quot;:{&quot;slidesToShow&quot;:3}},{&quot;breakpoint&quot;:1024,&quot;settings&quot;:{&quot;slidesToShow&quot;:4}}]}" class="slick__slider">  <div class="slick__slide slide slide--0">  
+<article class="node node--type-hn-article node--view-mode-related-content-item node-with-image">
+  <div class="node__content">
+    <a href="/en/info-norden/electronic-identification-e-id-norway" rel="bookmark" class="related-content-link">
+              
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/related_content_image/public/2023-12/firmbee-com-SpVHcbuKi6E-unsplash.jpeg?itok=JPIK2zSb" width="350" height="232" alt="Kvinne med telefon og PC" class="image-style-related-content-image" />
+
+
+</div>
+      
+        
+        
+            <div class="node__content-inner">
+        
+        <h4>
+          <span class="field field--name-title field--type-string field--label-hidden">Electronic identification - e-ID in Norway </span>
+
+        </h4>
+        
+              </div>
+    </a>
+  </div>
+</article>
+</div>
+  <div class="slick__slide slide slide--1">  
+<article class="node node--type-hn-article node--view-mode-related-content-item node-with-image">
+  <div class="node__content">
+    <a href="/en/info-norden/guide-study-norway" rel="bookmark" class="related-content-link">
+              
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/related_content_image/public/2023-01/handelshoegskolan-i-goeteborg-2.jpg?itok=dpw-ijem" width="350" height="233" alt="Studenter " class="image-style-related-content-image" />
+
+
+</div>
+      
+        
+        
+            <div class="node__content-inner">
+        
+        <h4>
+          <span class="field field--name-title field--type-string field--label-hidden">Guide: Study in Norway </span>
+
+        </h4>
+        
+              </div>
+    </a>
+  </div>
+</article>
+</div>
+  <div class="slick__slide slide slide--2">  
+<article class="node node--type-hn-article node--view-mode-related-content-item node-with-image">
+  <div class="node__content">
+    <a href="/en/info-norden/loan-assistive-devices-norway" rel="bookmark" class="related-content-link">
+              
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/related_content_image/public/2020-10/_MG_2951.JPG?itok=Onf9OSbr" width="350" height="233" alt="Mann i rullestol og bil " class="image-style-related-content-image" />
+
+
+</div>
+      
+        
+        
+            <div class="node__content-inner">
+        
+        <h4>
+          <span class="field field--name-title field--type-string field--label-hidden">Loan of assistive devices in Norway</span>
+
+        </h4>
+        
+              </div>
+    </a>
+  </div>
+</article>
+</div>
+  <div class="slick__slide slide slide--3">  
+<article class="node node--type-hn-article node--view-mode-related-content-item node-with-image">
+  <div class="node__content">
+    <a href="/en/info-norden/child-support-child-maintenance-norway" rel="bookmark" class="related-content-link">
+              
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/related_content_image/public/2020-10/far-og-datter-spiller-basket-p.jpg?itok=gebw3MFK" width="350" height="233" alt="Far og datter " class="image-style-related-content-image" />
+
+
+</div>
+      
+        
+        
+            <div class="node__content-inner">
+        
+        <h4>
+          <span class="field field--name-title field--type-string field--label-hidden">Child support (child maintenance) in Norway </span>
+
+        </h4>
+        
+              </div>
+    </a>
+  </div>
+</article>
+</div>
+  <div class="slick__slide slide slide--4">  
+<article class="node node--type-hn-article node--view-mode-related-content-item node-with-image">
+  <div class="node__content">
+    <a href="/en/info-norden/kindergartens-norway" rel="bookmark" class="related-content-link">
+              
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/related_content_image/public/images/B%C3%B8rnepasning%20i%20Gr%C3%B8nland39978.jpeg?itok=xxhflx8u" width="350" height="233" alt="Børnepasning i Grønland" class="image-style-related-content-image" />
+
+
+</div>
+      
+        
+        
+            <div class="node__content-inner">
+        
+        <h4>
+          <span class="field field--name-title field--type-string field--label-hidden">Kindergartens in Norway</span>
+
+        </h4>
+        
+              </div>
+    </a>
+  </div>
+</article>
+</div>
+</div>
+          <nav role="navigation" class="slick__arrow">
+        <button type="button" data-role="none" class="slick-prev" aria-label="&amp;#10094;" tabindex="0">&#10094;</button><button type="button" data-role="none" class="slick-next" aria-label="&amp;#10095;" tabindex="0">&#10095;</button>
+      </nav>
+    </div>
+
+  
+  
+
+  
+  
+
+  
+  </div>
+
+
+  </div>
+
+  </div>
+
+  </div>
+</article>
+
+  </div>
+<div id="block-infonordenbanner" class="info-hn-banner">
+  
+    
+      <div class='info-hn-banner--content'>
+      
+<div  class="block-left-column">
+      
+<div  class="info-norden-about">
+      
+            <div class="field field--name-field-about-info-norden field--type-string-long field--label-hidden field__item">Info Norden is the information service of the Nordic Council of Ministers. Here you can find info and tips if you wish to move, work, study, seek support or start a business in the Nordic region.</div>
+      
+      <div class="field field--name-field-about-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/en/information/about-info-norden-information-service">About Info Norden</a></div>
+          </div>
+  
+  </div>
+
+  </div>
+
+<div  class="block-right-column">
+      
+<div  class="info-norden-questions">
+      
+            <div class="field field--name-field-questions-title field--type-string field--label-hidden field__item">Ask us a question</div>
+      
+      <div class="field field--name-field-questions-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/en/ask">You can fill in our contact form here.</a></div>
+          </div>
+  
+  </div>
+
+<div  class="info-norden-offices">
+      
+            <div class="field field--name-field-offices-title field--type-string field--label-hidden field__item">Find an office</div>
+      
+      <div class="field field--name-field-offices-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/en/information/info-norden-offices">Info Norden offices </a></div>
+              <div class="field__item"><a href="mailto:info@infonorden.org?subject=Email%20from%20norden.org">info@infonorden.org</a></div>
+          </div>
+  
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+<noscript><!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXLB55J"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) --></noscript>
+  </div>
+
+          </div>
+  </main>
+
+      <footer class="main-footer" role="contentinfo">
+      <div class="layout-content">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-footerlinks1-menu" id="block-footerlinks1" class="block block-menu navigation menu--footer-links-1">
+      
+  <h2 id="block-footerlinks1-menu">Agenda</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/nyheder" data-drupal-link-system-path="news">News</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/events" data-drupal-link-system-path="events">Calendar</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/publications" data-drupal-link-system-path="publications">Publications</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/funding-opportunities" data-drupal-link-system-path="funding-opportunities">Apply for funding</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/information/how-apply-funding-nordic-council-ministers" data-drupal-link-system-path="node/71072">About funding from the Nordic Council of Ministers</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-footerlinks2" class="block block-domain-menu-access block-domain-access-menu-blockfooter-links-2">
+  
+      <h2>Insight</h2>
+    
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/information/data-protection-policy" data-drupal-link-system-path="node/2109">Data protection policy (for GDPR)</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.was.digst.dk/norden-org">Accessibility Statement</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://pub.norden.org/designmanual-en/">Design manual</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+<div id="block-footerlinks3" class="block block-domain-menu-access block-domain-access-menu-blockfooter-links-3">
+  
+      <h2>Organisation</h2>
+    
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/nordic-council-ministers-0" data-drupal-link-system-path="node/87832">Nordic Council of Ministers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/nordic-council-0" data-drupal-link-system-path="node/87818">Nordic Council </a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/info-norden" data-drupal-link-system-path="info-norden">Info Norden</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+<nav role="navigation" aria-labelledby="block-socialprofiles-menu" id="block-socialprofiles" class="block block-menu navigation menu--social-profiles">
+      
+  <h2 id="block-socialprofiles-menu">Follow Nordic co-operation</h2>
+  
+
+        
+              <ul class="menu f-social-menu">
+                    <li class="menu-item facebook">
+        <a href="https://www.facebook.com/nordenen">Facebook</a>
+              </li>
+                <li class="menu-item linkedin">
+        <a href="https://www.linkedin.com/company/the-nordic-council-of-ministers-and-the-nordic-council/">Linkedin</a>
+              </li>
+                <li class="menu-item twitter">
+        <a href="https://twitter.com/nordenen">Twitter</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          <div class="region region-footer-bottom">
+    <div id="block-contactinfo" class="block block-block-content block-block-content1057a48f-b8de-4457-bfde-6786ca889109">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>The Nordic Council and the Nordic Council of Ministers&nbsp;|&nbsp;Nordens Hus&nbsp;| Ved Stranden 18,&nbsp;1061 Copenhagen K, Denmark&nbsp;| <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="94f98e88-188e-48ab-8bb6-f9ce3796dc35" href="/en/information/contacts" title="Contacts">Contact information</a>&nbsp;|&nbsp;<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0745c835-c0fd-4d13-842a-e6c2879408c0" href="/en/information/about-nordenorg" title="About norden.org">About this website</a>&nbsp;|&nbsp;&nbsp;<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d7473fd8-3610-406c-a03e-a0395bdfeaa9" href="/is/information/foroyar-i-nordurlendskum-samstarvi" title="Føroyar í norðurlendskum samstarvi">Upplýsingar á føroyskum</a></p></div>
+      
+  </div>
+
+  </div>
+
+      </div>
+    </footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"node\/47671","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"multiselect":{"widths":250},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"node-left-column","id":"","element":"div","show_label":false,"label_element":"h3","attributes":"","effect":"none","speed":"fast","show_empty_fields":false,"label_element_classes":""}}},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"loader":true,"unblazy":false,"visibleClass":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/en\/search":true},"user":{"uid":0,"permissionsHash":"2f7eae29bef10080f6f9ad1edb2e317e9dadd02eec44b790a2c97bfac818cfe6"}}</script>
+<script src="/sites/default/files/js/js_YQDrndTkZZe5IKizpCFudcmlaTd5OCv0e08t4bDwR6E.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=norden_theme&amp;include=eJx1UEGOwyAM_BAJ2j3tb5AhDqU1NsJE3fT1i7K0h6i9mBmPjcYDy9IEeLcwwLxW4WZAFZtLfMXQpNqr2iByS-g8MGN9o0eRSOgaRJeBIb4dYrwrYWtYnabIW3EaairNsNQF2bULZrSRxANNx7oaT_DY7VEHJoFlwCK0r4lo0EB9iZK2p1wlJ8XBKqwD3dEX0wfDzR51Pr4cJi5sn3akpOC626wOQujNJGwUqR_0bcd75nP6-uEZ2fj_Q_G3iOLius1Oe1DYAwT6JMPWxOnmczqlkjHClJG3c5u36WXuDwuHtP0"></script>
+<script src="https://static.addtoany.com/menu/page.js" defer></script>
+<script src="/sites/default/files/js/js_kbH4LEjvuMIN_VLwXKX3pdrN_-lTnHwHyI5h7-6QCD4.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=norden_theme&amp;include=eJx1UEGOwyAM_BAJ2j3tb5AhDqU1NsJE3fT1i7K0h6i9mBmPjcYDy9IEeLcwwLxW4WZAFZtLfMXQpNqr2iByS-g8MGN9o0eRSOgaRJeBIb4dYrwrYWtYnabIW3EaairNsNQF2bULZrSRxANNx7oaT_DY7VEHJoFlwCK0r4lo0EB9iZK2p1wlJ8XBKqwD3dEX0wfDzR51Pr4cJi5sn3akpOC626wOQujNJGwUqR_0bcd75nP6-uEZ2fj_Q_G3iOLius1Oe1DYAwT6JMPWxOnmczqlkjHClJG3c5u36WXuDwuHtP0"></script>
+
+  </body>
+</html>

@@ -1,0 +1,22 @@
+[project]
+name = "rag"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Team COSMO"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.dependencies]
+numpy = "^2.2.2"
+sentence-transformers = "^3.4.1"
+pandas = "^2.2.3"
+fastapi = "^0.115.8"
+uvicorn = "^0.34.0"
+openai = "^1.61.0"
+cohere = "^5.13.11"

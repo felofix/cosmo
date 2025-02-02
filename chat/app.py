@@ -84,11 +84,21 @@ def format_response_with_sources(response_text, docs):
     
     return formatted_text.strip(), final_sources
 
+@app.route('/api/translate', methods=['POST'])
+def translate():
+    try:
+        data = request.json
+        response = requests.post('http://localhost:8888/translate', json=data)
+        return jsonify(response.json()), response.status_code
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
 @app.route('/api/chat', methods=['POST'])
 def chat():
     try:
         message = request.json.get('message', '')
-        
+
         # Query the endpoint directly
         response = requests.post(
             'http://localhost:8888/query/',
@@ -175,7 +185,7 @@ def mark_substep_done():
         substep_id = data.get('substepId')
         if step_id is None or substep_id is None:
             return jsonify({'error': 'Step ID and Substep ID are required'}), 400
-            
+
         # Create new assistant instance
         assistant = NorwegianImmigrationAssistant()
         assistant.mark_substep_done(step_id, substep_id)
@@ -188,13 +198,13 @@ def get_source():
     try:
         data = request.get_json()
         doc_ids = data.get('docIds', [])
-        
+
         # Get response data from the query endpoint
         response = requests.post(
             'http://localhost:8888/query/',
             json={'query': ' '.join(doc_ids)}  # Use doc IDs as query to get their content
         )
-        
+
         if response.status_code == 200:
             query_data = response.json()
             return jsonify({
@@ -206,7 +216,7 @@ def get_source():
                 'success': False,
                 'error': 'Failed to fetch source content'
             })
-            
+
     except Exception as e:
         print(f"Error getting source content: {str(e)}")
         return jsonify({

@@ -58,6 +58,12 @@ class RagDatabase:
         self.index = []
         for i, document in enumerate(self.documents):
             for j, chunk in enumerate(document.chunks):
+                # clean
+                for s in ['Start editortext']:
+                    chunk = chunk.replace(s,'').strip()
+                if len(chunk) < 100:
+                    continue
+                document.chunks[j] = chunk
                 chunks.append(f"passage: {chunk}")
                 self.index.append((i, j))
         self.embeddings = self.st.encode(chunks, normalize_embeddings=True, show_progress_bar=True)
@@ -72,10 +78,14 @@ class RagDatabase:
         scores, indices = torch.topk(similarity_scores, k=min(k,len(similarity_scores)))
 
         chunks = []
+        done = set()
         for i in indices:
             di, ci = self.index[i]
             doc = self.documents[di]
-            chunks.append((self.documents[di], self.documents[di].chunks[ci]))
+            chunk = self.documents[di].chunks[ci]
+            if chunk.strip() not in done:
+                chunks.append((self.documents[di], chunk))
+                done.add(chunk.strip())
         return chunks
 
 def rerank(question, sources, k):
@@ -97,7 +107,7 @@ def make_db():
     db = RagDatabase()
     # db.ingest("../crawler/nordic-crawler/")
     #db.ingest_json("../crawler/nordic-crawler/output/udi_pages_rag.json")
-    db.ingest_json("/home/ubuntu/cosmo/crawler/nordic-crawler/output/nordic_all.json")
+    db.ingest_json("/home/ubuntu/cosmo/nordic-crawler/output/nordic_all.json")
     db.encode()
     return db
 

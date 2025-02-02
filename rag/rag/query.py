@@ -2,6 +2,7 @@ import os
 from openai import OpenAI
 import re
 import json
+import pprint
 
 SYSTEM_PROMPT = """
 You are an expert assistant tasked with answering questions accurately using only the provided context.
@@ -36,10 +37,10 @@ def create_client():
 def translate_query(question, document):
     client = create_client()
     translation_prompt = (
-        f"Translate the following document to the language of the question and return the result in JSON format.\n\n"
+        f"Translate the following document to the language of the question and return the result in JSON format. Indicate the language of the document as 'from_lang' and the language of the question as 'to_lang'.\n\n"
         f"Question: {question}\n\n"
         f"Document: {document}\n\n"
-        f"Output format: {{\"translation\": <translated_text>, \"from_lang\": <source_language>, \"to_lang\": <target_language>}}\n"
+        f"Output format: {{\"from_lang\": <document_source_language>, \"to_lang\": <question_target_language>, \"translation\": <translated_text_to_target_language>, }}\n"
         "Do not output anything other than the JSON. If the document is already in the right language, do not change it, and return 'to_lang' equal to 'from_lang'."
     )
     
@@ -55,6 +56,9 @@ def translate_query(question, document):
         print(f"Could not parse json {response!r}: {e}")
         result =  {"from_lang": "?", "to_lang": "?", "translation": "<translation failed>"}
     result['document'] = document
+    result['question'] = question
+    print("Translated:",end="")
+    pprint.pprint(result)
     return result
 
 def query_with_context(question, sources, temperature=0.3):
